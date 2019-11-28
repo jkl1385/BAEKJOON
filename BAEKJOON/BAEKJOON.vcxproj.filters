@@ -15,28 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ_10808.cpp">
+    <ClCompile Include="BOJ_1260.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ_1934.cpp">
+    <ClCompile Include="BOJ_11724.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ_14490.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ_15638.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ_15637.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ_2475.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ_13458.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ_17478.cpp">
+    <ClCompile Include="BOJ_2667.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
